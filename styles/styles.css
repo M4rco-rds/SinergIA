@@ -137,7 +137,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: left;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: lighter;
     text-align: left;
     margin-left: 15%;
@@ -158,8 +158,8 @@ body{
 .content-img-small {
     align-self: center;
     width: 60%;
-    max-width: 190px;
-    max-height: 190px;
+    max-width: 280px;
+    max-height: 280px;
     border-radius: 10px;
     padding: 20px 16px;
 }
