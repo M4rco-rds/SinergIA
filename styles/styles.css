@@ -148,9 +148,18 @@ body{
 
 .content-img {
     align-self: center;
-    width: 40%;
+    width: 60%;
     min-width: 120px;
     min-height: 120px;
+    border-radius: 10px;
+    padding: 20px 16px;
+}
+
+.content-img-small {
+    align-self: center;
+    width: 60%;
+    max-width: 190px;
+    max-height: 190px;
     border-radius: 10px;
     padding: 20px 16px;
 }
