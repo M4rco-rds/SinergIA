@@ -14,6 +14,29 @@ body{
     height: -webkit-fill-available;
 }
 
+#topBtn{
+    display: none;
+    position: fixed;
+    bottom: 40px;
+    right: 60px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #db4a2b;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+    box-shadow: 0px 8px 16px 1px rgba(0, 0, 0, 0.2);
+    font-family: 'Sugo Pro Display Trial', sans-serif;
+}
+
+#topBtn img{
+    max-height: 30px;
+    max-width: 30px;
+}
+
 .container{
     background: white;
     height: inherit;
